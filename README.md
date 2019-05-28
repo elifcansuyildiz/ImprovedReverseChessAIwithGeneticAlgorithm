@@ -2,7 +2,17 @@
 
 **Authors: ELİF CANSU YILDIZ - SALİH MARANGOZ**
 
-[TOC]
+* [Improved Reverse Chess AI with Genetic Algorithm](#improved-reverse-chess-ai-with-genetic-algorithm)
+      * [1. Introduction](#1-introduction)
+         * [1.1. Genetic Algorithm](#11-genetic-algorithm)
+         * [1.2. Chess AI](#12-chess-ai)
+         * [1.3. Goal of This Project](#13-goal-of-this-project)
+      * [2. Installation](#2-installation)
+      * [3. How to Run](#3-how-to-run)
+      * [4. Parameters](#4-parameters)
+      * [5. Results](#5-results)
+      * [6. References](#6-references)
+
 
 ## 1. Introduction
 
