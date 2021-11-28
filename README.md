@@ -69,7 +69,7 @@ $ python3 start_game.py
 
 ## 4. Results
 
-Some results are presented in the `results.md` file.
+Some results are presented in the [`results.md`](https://github.com/elifcansuyildiz/ImprovedReverseChessAIwithGeneticAlgorithm/blob/main/results.md) file.
 
 
 
